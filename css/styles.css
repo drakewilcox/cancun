@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: lightseagreen !important;
+    color: white;
+}
+img {
+    width: 100%;
+}
+body {
+    background-color: bisque;
+    background-attachment: fixed;
+    font-family: 'Bree Serif', serif; 
+}
+
+p{
+    font-family: 'Bree Serif', serif;
+}
+
+h1, h2, h3 {
+    
+    font-family: 'Domine', serif;
+}
